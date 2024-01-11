@@ -1,5 +1,7 @@
 # 🌟 Battle Royale Mod for DayZ: Survival Showdown 🌟
 
+![Battle Royale Mod Logo](Assets/battle_royale_mod_logo.png)
+
 ## Introduction
 Embark on an unparalleled survival adventure in our Battle Royale mod for DayZ. This mod brings heart-racing action, strategic alliances, and a test of survival skills in a high-stakes environment.
 
