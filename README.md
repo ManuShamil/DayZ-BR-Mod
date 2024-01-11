@@ -26,6 +26,13 @@ Embark on an unparalleled survival adventure in our Battle Royale mod for DayZ. 
   - **🔓 The Loot Unveiling**: Crates reveal a variety of equipment upon opening, reminiscent of Call of Duty's system.
   - **🌈 Crate Variety**: Crate types dictate the rarity and quality of the loot.
 
+## ☠️ Toxic Gas Zone: The Lethal Perimeter
+![Toxic Gas Zone](Assets/toxic_gas_zone.png)
+- **Deadly Boundaries**: The gas zones form a lethal barrier, causing significant damage to any player who dares to venture into them.
+- **Dynamic Constriction**: These zones dynamically shrink the playable area, forcing players into closer combat and strategic play.
+- **Visual Menace**: The toxic gas is visually distinct, creating a palpable sense of danger and urgency.
+- **Strategic Gameplay**: Players must constantly adapt their strategies, balancing the risks of the toxic zone against the potential rewards of staying within the safe area.
+
 ## 🪂 Airdrop System: Gifts from the Sky
 ![Airdrop System](Assets/airdrop_system.png)
 - **🌠 Randomized Airdrops**: Periodically, airdrops deliver high-value resources at random locations across the map.
